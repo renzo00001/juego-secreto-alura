@@ -6,7 +6,7 @@ let  parrafo= document.querySelector('p')
 parrafo.innerHTML= "indicar un numero de 1 al 10"
 */
 
-/*
+
 let numeroR= 0;
 
 let intentos =0;
@@ -84,7 +84,7 @@ function reinicioo(){   //cuando se presiona el boton de NUEVO JUEGO  reinicia t
 
 CondicionesInicio();
 
-*/
+
 
 
 /*
